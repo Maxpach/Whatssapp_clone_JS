@@ -3,6 +3,7 @@ Um clone simples Da UI do WhasApp.
 
 # Qual a funcionalidade?
 Saber a codificação necessária para as funcionalidades básicas, e começar a construir um aplicativo desses apenas com o JavaScrip.
+Na verdade, contém alguns efeitos e é feito to
 
 
 # Frontend whatsapp
